@@ -50,6 +50,35 @@ SycPlayr is a fully offline Android music player built with a **Flutter (Dart) U
 
 ---
 
+## Interface & Gallery
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="screenshots/Screenshot_20260508-142109.png" width="300" alt="Branded Splash Screen"><br>
+        <i>Branded Splash Screen</i>
+      </td>
+      <td align="center">
+        <img src="screenshots/Screenshot_20260508-142117.png" width="300" alt="Playback Engine (Idle)"><br>
+        <i>Playback Engine (Idle)</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="screenshots/Screenshot_20260508-142242.png" width="300" alt="Active Playback UI with Vinyl Animation Control"><br>
+        <i>Active Playback UI with Vinyl Animation Control</i>
+      </td>
+      <td align="center">
+        <img src="screenshots/Screenshot_20260508-142256.png" width="300" alt="SQLite-Persisted Favorites Library"><br>
+        <i>SQLite-Persisted Favorites Library</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## Architecture
 
 ```
